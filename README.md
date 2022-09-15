@@ -41,12 +41,12 @@
 ## ⌨️ Use the CLI
 
 ```shell
-~$ sudo npm install -g create-compose-app
-~$ create-compose-app
+~$ sudo npm install -g create-compose-desktop-app
+~$ create-compose-desktop-app
 Enter project name : 
 ```
 
-Learn more [here](https://github.com/theapache64/create-compose-app)
+Learn more [here](https://github.com/theapache64/create-compose-desktop-app)
 
 ## ✍️ Author
 
